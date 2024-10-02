@@ -1,7 +1,7 @@
 # kiidam-# Hola 💬
 ![descarga](https://github.com/user-attachments/assets/71fa6c37-2b8c-496f-b95a-9d423960622f)
 
-Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
+Soy un ingeniero de software apasionado por hacer los entornos mas seguros a traves del Penstesting.
 
 Encuéntrame en la web 🌎:
 - Aprender en público en /kiidam_xx
